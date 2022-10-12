@@ -1,0 +1,19 @@
+title: Dewheater Controller
+email: shop@dewheater.com
+description: >- # this means to ignore newlines until "baseurl:"
+  W&W Astro dewheater controller page.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://controller.dewheater.com"
+
+# Build settings
+theme: minima
+
+# Exclude from processing.
+#
+exclude:
+   - .sass-cache/
+   - .jekyll-cache/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - CNAME
