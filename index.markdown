@@ -24,4 +24,6 @@ Each channel is limited to 36W.
    ![step4](4ch_controller_step4.png)
 
 
+Get the controller from the [dewheater.com](https://dewheater.com)
+
 Source code for the controller firmware is available from [github repository](https://github.com/softica/controller-firmware)
