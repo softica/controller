@@ -27,3 +27,5 @@ Each channel is limited to 36W.
 Get the controller from the [dewheater.com](https://dewheater.com)
 
 Source code for the controller firmware is available from [github repository](https://github.com/softica/controller-firmware)
+
+Flashing instructions are described in [flashing](flashing.markdown) section.
